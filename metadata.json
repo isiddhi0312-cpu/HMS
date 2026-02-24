@@ -1,0 +1,5 @@
+{
+  "name": "Hostel Management System",
+  "description": "A comprehensive dashboard for managing hostel students, rooms, attendance, and complaints.",
+  "requestFramePermissions": []
+}
